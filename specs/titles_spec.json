@@ -1,0 +1,8 @@
+{
+  "header": ["no", "title"],
+  "count": 10,
+  "min_chars": 12,
+  "max_chars": 24,
+  "need_digit": true,
+  "banned": ["무조건", "100%", "보장", "대박", "충격", "역대급", "필수"]
+}

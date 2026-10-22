@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.claude/hooks/harness_log.csv
+.claude/hooks/.state/
+.claude/settings.local.json
+demo/titles.csv
+demo/renders_old/
+_archive/
